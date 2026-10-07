@@ -1,13 +1,13 @@
-# WinNetDrivers
+### Realtek PCIe GbE & 2.5GbE Drivers
 
-WinNetDrivers is a collection of Windows network drivers for Ethernet, Wi-Fi, and other network adapters. The repository provides commonly used drivers and related resources to help users quickly identify, install, and maintain network connectivity on Windows systems.
+A collection of **Realtek PCIe Gigabit Ethernet (GbE) and 2.5 Gigabit Ethernet (2.5GbE) drivers for Windows systems**. This repository is intended to provide convenient access to network adapter drivers for supported Realtek PCIe Ethernet controllers.
 
-### Features
+The drivers can help ensure proper network adapter detection, stable connectivity, improved network performance, and compatibility with supported Windows operating systems.
 
-* Windows Ethernet and Wi-Fi drivers
-* Drivers for common network adapters
-* Easy-to-organize driver packages
-* Useful resources for Windows system setup and troubleshooting
-* Support for various hardware manufacturers and adapter models
+**Supported hardware includes:**
 
-Built for simple, reliable, and convenient Windows network driver management.
+* Realtek PCIe Gigabit Ethernet (GbE) controllers
+* Realtek PCIe 2.5 Gigabit Ethernet (2.5GbE) controllers
+* Compatible Realtek Ethernet network adapters
+
+The repository is organized to make it easier to locate and install the appropriate Realtek network driver when setting up or troubleshooting a Windows system.
